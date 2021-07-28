@@ -1,4 +1,4 @@
-![12-07-19-16-tips-to-become-a-better-programmer-pt1-blog](https://user-images.githubusercontent.com/87375740/127309150-dcf4ee2d-48c6-4998-adbd-4912f970116e.jpg)
+![ll](https://user-images.githubusercontent.com/87375740/127310954-4711f152-086f-4ff9-8b55-3ca4a2b8266d.jpg)
 <h1 align="center">Hi 👋, I'm Kajal mohansigh rajodiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
