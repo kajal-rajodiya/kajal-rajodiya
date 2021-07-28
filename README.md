@@ -1,4 +1,4 @@
-![kkk](https://user-images.githubusercontent.com/87375740/127307577-ade0787f-143c-4e7c-a5d2-44ab8c4b09b1.jpg)
+<h1 align="center">![kkk](https://user-images.githubusercontent.com/87375740/127307577-ade0787f-143c-4e7c-a5d2-44ab8c4b09b1.jpg)<h/1>
 <h1 align="center">Hi 👋, I'm Kajal mohansigh rajodiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
