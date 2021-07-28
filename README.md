@@ -1,5 +1,5 @@
 ![ll](https://user-images.githubusercontent.com/87375740/127310954-4711f152-086f-4ff9-8b55-3ca4a2b8266d.jpg)
-<h1 align="center">Hi 👋, I'm Kajal mohansigh rajodiya</h1>
+<h1 align="center">Hi 👋, I'm Kajal </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **C language**
