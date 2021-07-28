@@ -20,7 +20,7 @@ My main interest lies in C++ Programming. I also have basic knowledge of Data St
 
 - 📫 How to reach me **kajalrajodiya1@gmail.com** [ 7796157522 ]
 
-- ⚡ Fun fact **I think I am fanny.**
+- ⚡ Fun fact **I think I am funny.**
 
 
 
